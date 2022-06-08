@@ -1,6 +1,6 @@
 # David's Sample Giraffe App
 
-This app demonstrates how giraffe renders data taken from InfluxDB buckets. Clicking the toggle view button switches the data to be displayed in either a heatmap form or a line graph form. Users can updata data by changing the `/birddata` request inside `main.js` to match their own bucket. Users will also need to update the flux query by also retrieving it from InfluxDB.
+This app demonstrates how giraffe renders data taken from InfluxDB buckets. Clicking the `Toggle View` button switches the data to be displayed in either a heatmap form or a line graph form. Users can update data by changing the `/birddata` request inside `main.js` to match their own bucket. Users will also need to update the flux query by also retrieving it from InfluxDB.
 
 # Getting Started
 
